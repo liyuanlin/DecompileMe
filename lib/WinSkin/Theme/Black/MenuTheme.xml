@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<MenuTheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<SystemMenuString>www.fz7788.com</SystemMenuString>
+  <MenuColors BorderColor="#000000" InnerBorderColor="#333333" BackColorNormal="#ffffff" BackColorHover="#140302" BackColorPressed="#131010" ForeColor="#000000" />
+</MenuTheme>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SkinFormTheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" FormRoundStyle="15">
+  <CaptionFont>
+    <FontFamily>Segoe UI</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>9</Size>
+    <Style>Regular</Style>
+  </CaptionFont>
+  <FormColors CaptionActive="#4bbcfe" CaptionDeactive="#83D1FF" CaptionText="#286F98" Border="#377EA8" InnerBorder="#FAFAFA" Back="#80D0FF" ControlBoxActive="#3399CC" ControlBoxDeactive="#58ACDA" ControlBoxHover="#257297" ControlBoxPressed="#1B546F" ControlCloseBoxHover="#D54216" ControlCloseBoxPressed="#AB3511" ControlBoxInnerBorder="#FAFAFA" />
+</SkinFormTheme>
