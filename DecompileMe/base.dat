@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<SystemSetting>
+  <SoftSetting>
+    <DataKeys>BuildPath</DataKeys>
+    <DataValues>D:\temp\DecompileMe</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>NETFrameworkPath</DataKeys>
+    <DataValues>C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>NETSDKPath</DataKeys>
+    <DataValues>C:\Program Files\Microsoft Visual Studio 8\SDK\v2.0\Bin\</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>ObfuscateFields</DataKeys>
+    <DataValues>1</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>ObfuscateMethods</DataKeys>
+    <DataValues>1</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>Encriptmethods</DataKeys>
+    <DataValues>1</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>AddBase64ToAssembly</DataKeys>
+    <DataValues>0</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>ObfuscateNamespaces</DataKeys>
+    <DataValues>1</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>ObfuscateProperties</DataKeys>
+    <DataValues>1</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>ObfuscateTypes</DataKeys>
+    <DataValues>1</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>AssemblyNames</DataKeys>
+    <DataValues />
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>ExcludeTypes</DataKeys>
+    <DataValues />
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>CplusplusCLPath</DataKeys>
+    <DataValues>D:\Program Files\Microsoft Visual Studio 9.0\VC\vcvarsall.bat</DataValues>
+  </SoftSetting>
+  <SoftSetting>
+    <DataKeys>CplusplusIncludePath</DataKeys>
+    <DataValues>D:\Program Files\Microsoft Visual Studio 9.0\VC\include</DataValues>
+  </SoftSetting>
+</SystemSetting>
